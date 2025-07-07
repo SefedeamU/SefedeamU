@@ -38,10 +38,10 @@ Soy estudiante de Ciencias de la Computación en **UTEC**, especializado en el d
 
 ### 📫 ¿Hablamos?
 
-Puedes enviarme un correo a **sergiofelipe_delgadoamado@hotmail.com** o encontrarme en las redes de arriba. ¡Siempre estoy abierto a conectar!
+Puedes enviarme un correo a **sergiofelipe_delgadoamado@hotmail.com** o encontrarme en las redes de arriba.
 
 <!-- Opcional: Estadísticas de GitHub -->
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO_DE_GITHUB]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU_USUARIO_DE_GITHUB]&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SefedeamU&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SefedeamU&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
