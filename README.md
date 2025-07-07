@@ -19,7 +19,7 @@ Soy estudiante de Ciencias de la Computación en **UTEC**, especializado en el d
 - Proyectos innovadores donde pueda participar en el ciclo completo de desarrollo: desde la **planificación y diseño de arquitectura** hasta el **despliegue y mantenimiento**.
 
 💬 **Puedes preguntarme sobre:**
-- Arquitecturas **Serverless** y **Microservicios** en AWS.
+- Arquitecturas **Serverless** en AWS y **Microservicios**.
 - Desarrollo backend con **NestJS (TypeScript)**, **FastAPI (Python)** y **Spring WebFlux (Java)**.
 - Integración de **IA** en aplicaciones web.
 - Estrategias de testing con **Docker** y **TestContainers**.
