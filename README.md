@@ -15,10 +15,10 @@ Soy estudiante de Ciencias de la Computación en **UTEC**, especializado en el d
 - Profundizando en **Large Language Models (LLMs)** y **MLOps** para optimizar el ciclo de vida de modelos de Machine Learning.
 - Diseñando arquitecturas orientadas a eventos para sistemas distribuidos.
 
-🤝 **Busco Colaborar en:**
+🤝 **Actualmente me interesa:**
 - Proyectos innovadores donde pueda participar en el ciclo completo de desarrollo: desde la **planificación y diseño de arquitectura** hasta el **despliegue y mantenimiento**.
 
-💬 **Pregúntame sobre:**
+💬 **Puedes preguntarme sobre:**
 - Arquitecturas **Serverless** y **Microservicios** en AWS.
 - Desarrollo backend con **NestJS (TypeScript)**, **FastAPI (Python)** y **Spring WebFlux (Java)**.
 - Integración de **IA** en aplicaciones web.
